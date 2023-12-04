@@ -10,6 +10,10 @@ Jack is well-versed in all aspects of Amazon Web Services, including its various
 
 Jack is an experienced Python developer with a strong background in software development and data analysis. He has a deep understanding of the language and its libraries, as well as the best practices for coding, testing, and debugging. Jack can help organizations leverage Python to build custom applications and automate workflows, enabling them to achieve their goals more efficiently and effectively.
 
+# Web development
+
+Jack is also an adept Full Stack Developer, specializing in the PERN stack (PostgreSQL, Express.js, React, Node.js). His expertise in full stack development encompasses building, maintaining, and managing dynamic and responsive web applications. Leveraging his extensive experience with AWS, Jack seamlessly integrates cloud-based solutions into web development, ensuring high scalability and security. He is proficient in implementing CI/CD pipelines and utilizing IaC (Infrastructure as Code) to automate and streamline the development process. Jack's holistic approach in web development ensures that applications are not only functionally robust but also optimized for peak performance and user experience.
+
 # Solutions Architecture
 
 As a Solutions Architect, Jack has a comprehensive understanding of software design and architecture. He is able to evaluate the strengths and weaknesses of different systems and choose the best approach for a given situation. Jack's expertise in AWS, Python, and software architecture allows him to design and implement highly effective solutions that meet the needs of organizations of all sizes and in all industries.
