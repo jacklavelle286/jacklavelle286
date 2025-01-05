@@ -14,8 +14,9 @@ Jack is an experienced Python developer with a strong background in software dev
 
 Jack is also an adept Full Stack Developer. His expertise in full stack development encompasses building, maintaining, and managing dynamic and responsive web applications. Leveraging his extensive experience with AWS, Jack seamlessly integrates cloud-based solutions into web development, ensuring high scalability and security. He is proficient in implementing CI/CD pipelines and utilizing IaC (Infrastructure as Code) to automate and streamline the development process. Jack's holistic approach in web development ensures that applications are not only functionally robust but also optimized for peak performance and user experience.
 
+
 # Solutions Architecture
 
-As a Solutions Architect, Jack has a comprehensive understanding of software design and architecture. He is able to evaluate the strengths and weaknesses of different systems and choose the best approach for a given situation. Jack's expertise in AWS, Python, and software architecture allows him to design and implement highly effective solutions that meet the needs of organizations of all sizes and in all industries.
+As a Solutions Architect, Jack has a comprehensive understanding of software / infrastructure design and architecture. He is able to evaluate the strengths and weaknesses of different systems and choose the best approach for a given situation. Jack's expertise in AWS, Python, and software architecture allows him to design and implement highly effective solutions that meet the needs of organizations of all sizes and in all industries.
 
 In conclusion, Jack Lavelle is a versatile, experienced, and highly skilled Solutions Architect who can help organizations achieve their technology goals. Whether you are looking to build custom applications, automate workflows, or optimize your AWS infrastructure, Jack has the knowledge, expertise, and experience to get the job done.
